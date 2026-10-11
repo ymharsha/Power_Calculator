@@ -1,4 +1,4 @@
-# Step 1: ask for a base number 
+# Step 1: ask for a base 
 base = int(input("Enter the base number: "))
 exponent = int(input("Enter the exponent: "))
 
